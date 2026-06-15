@@ -1,8 +1,9 @@
 ---
 title: CV
 icon: fas fa-file-alt
-order: 4
+order: 5
 --------
+
 # Curriculum Vitae
 
 ## Education
@@ -15,7 +16,6 @@ Research interests: financial technology, cryptocurrency, digital currency, bloc
 **MSc in Financial Computing**, Xi'an Jiaotong-Liverpool University
 09/2022 -- 04/2024
 
----
 
 ## Publications
 
