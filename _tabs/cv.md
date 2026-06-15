@@ -3,7 +3,6 @@ title: CV
 icon: fas fa-file-alt
 order: 4
 --------
-
 # Curriculum Vitae
 
 ## Education
